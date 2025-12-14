@@ -6,7 +6,7 @@ Componentes del grupo: Verónica Ramírez Alejandro, Helena Ramos Muradás, Gin�
 Proyecto académico para la extracción de huellas digitales de audio utilizando STFT, detección de picos y hashes no deterministas.
 
 ## Requisitos
-- Python 3.x
+- Python 3
 - essentia
 - numpy
 - matplotlib
