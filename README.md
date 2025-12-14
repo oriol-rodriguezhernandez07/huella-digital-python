@@ -1,6 +1,7 @@
 # huella-digital-python
-17. Huella digital de Audio y el Algoritmo de Shazam. Programación 1ºGIA UPM
-Componentes del grupo:
+17. Huella digital de Audio y el Algoritmo de Shazam. Programación 1ºGIA UPM.
+
+Componentes del grupo: Verónica Ramírez Alejandro, Helena Ramos Muradás, Ginés Reinoso Blanco, Oriol Rodríguez Hernández.
 
 Proyecto académico para la extracción de huellas digitales de audio utilizando STFT, detección de picos y hashes no deterministas.
 
